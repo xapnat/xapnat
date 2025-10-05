@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![status](https://api.statusbadges.me/badge/status/864135836727508994)
 <!--
 **xapnat/xapnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
