@@ -9,5 +9,5 @@
   <img src="https://api.statusbadges.me/badge/playing/864135836727508994" alt="playing" />
   <img src="https://api.statusbadges.me/badge/vscode/864135836727508994" alt="playing" />
   <img src="https://api.statusbadges.me/badge/spotify/864135836727508994" alt="playing" />
-  <img src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" alt="playing" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=jxstpyxonn" alt="playing" />
 </p>
