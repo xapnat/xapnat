@@ -6,4 +6,7 @@
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/864135836727508994" alt="status" />
+  <img src="https://api.statusbadges.me/badge/playing/864135836727508994" alt="playing" />
+  <img src="https://api.statusbadges.me/badge/vscode/864135836727508994" alt="playing" />
+  <img src="https://api.statusbadges.me/badge/spotify/864135836727508994" alt="playing" />
 </p>
