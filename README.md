@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<center>![avatar](https://r2.haunt.gg/avatar/3f7fd6a8-9ec0-4bdd-a319-bbc9df0bd9ea.jpeg)</center>
 ![status](https://api.statusbadges.me/badge/status/864135836727508994)
 <!--
 **xapnat/xapnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
