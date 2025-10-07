@@ -10,9 +10,12 @@
   <img src="https://api.statusbadges.me/badge/spotify/864135836727508994?simple=true" alt="Spotify" />
 </p>
 
+--- 
+
 ### 👋 About Me
 Hey, I’m **Adrian**, based in **Germany 🇩🇪**.  
 I’m a **manager** at **[haunt.gg](https://haunt.gg)** — the ultimate platform for **creators** and **influencers** to share their **online presence** in one beautiful link.
+
 I’m **collaborating on** [**curet-dev/docs**](https://github.com/curet-dev/docs), working to improve [haunt's documentation](https://help.haunt.gg).
 
 📬 **Contact:** [adrian@haunt.gg](mailto:adrian@haunt.gg)
