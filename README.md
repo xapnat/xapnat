@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://r2.haunt.gg/avatar/3f7fd6a8-9ec0-4bdd-a319-bbc9df0bd9ea.jpeg" alt="avatar" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/xapnat.png" alt="avatar" width="200" style="border-radius: 50%;" />
 </p>
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/864135836727508994?simple=true" alt="status" />
