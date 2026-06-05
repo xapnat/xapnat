@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/xapnat.png" alt="avatar" width="200" style="border-radius: 50%;" />‎ ‎ ‎ ‎ ‎ ‎<img src="https://hauntgg-card.vercel.app/card/adrian?t=1780655738548" alt="haunt.gg card" width="41.5%">
+  <img src="https://github.com/xapnat.png" alt="avatar" width="200" style="border-radius: 50%;" />‎ ‎ ‎ ‎ ‎ ‎<a href="https://haunt.gg/adrian">
+  <img src="https://hauntgg-card.vercel.app/card/adrian?t=1780655738548" alt="haunt.gg card" width="41.5%">
+</a>
 </p>
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/864135836727508994?simple=true" alt="status" />
